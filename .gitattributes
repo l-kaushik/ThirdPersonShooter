@@ -1,2 +1,13 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+Content/AnimStarterPack/** filter=lfs diff=lfs merge=lfs -text
+Content/Audio/** filter=lfs diff=lfs merge=lfs -text
+Content/FPS_Weapon_Bundle/** filter=lfs diff=lfs merge=lfs -text
+Content/LevelPrototyping/** filter=lfs diff=lfs merge=lfs -text
+Content/MilitaryWeapSilver/** filter=lfs diff=lfs merge=lfs -text
+Content/SCK_Casual01/Materials/** filter=lfs diff=lfs merge=lfs -text
+Content/SCK_Casual01/Models/** filter=lfs diff=lfs merge=lfs -text
+Content/SCK_Casual01/Textures/** filter=lfs diff=lfs merge=lfs -text
+Content/Stylized_Egypt/** filter=lfs diff=lfs merge=lfs -text
+Content/StarterContent/** filter=lfs diff=lfs merge=lfs -text
